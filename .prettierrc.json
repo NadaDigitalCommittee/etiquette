@@ -1,0 +1,11 @@
+{
+	"bracketSpacing": true,
+	"endOfLine": "crlf",
+	"htmlWhitespaceSensitivity": "css",
+	"jsxSingleQuote": false,
+	"printWidth": 80,
+	"semi": true,
+	"singleQuote": false,
+	"tabWidth": 4,
+	"useTabs": true
+}

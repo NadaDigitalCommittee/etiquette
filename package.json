@@ -1,0 +1,8 @@
+{
+	"name": "etiquette",
+	"private": true,
+	"workspaces": [
+		"packages/*",
+		"apps/*"
+	]
+}
