@@ -4,5 +4,8 @@
 	"workspaces": [
 		"packages/*",
 		"apps/*"
-	]
+	],
+	"dependencies": {
+		"qr-code-styling": "^1.9.1"
+	}
 }
